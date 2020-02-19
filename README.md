@@ -16,3 +16,6 @@ runlike as docker container
     alias runlike="docker run --rm -v /var/run/docker.sock:/var/run/docker.sock datoma/runlike"
 
     runlike <DOCKER_CONTAINER_ID>
+## links
+runlike is maintained here: https://github.com/lavie/runlike/
+it's part of pypi: https://pypi.org/project/runlike/
