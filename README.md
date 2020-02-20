@@ -5,7 +5,7 @@ runlike as docker container
 
 ### Image content
 - base: docker
-- additional packages: 
+- additional packages:
   - python2
   - py-setuptools
   - pip
